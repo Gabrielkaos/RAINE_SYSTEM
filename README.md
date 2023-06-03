@@ -1,17 +1,17 @@
-# RAINE_SYSTEM-purot-nga-ngaran-
-Kinaangolan nga research hin mga STEM - B, ambut kay ano in naisip nga research
+# RAINE_SYSTEM(yawa na nga ngaran)
+Research han stem b, naka ideya siguro hin hi adriana sabot ma di tuhay
 
 ## Members
-Adriana
-Mary
-Gliane
-Cristal
-Sofia
-Iona
-Rosheane(?)
+Adriana(pinaka gi aartihi han ngatanan)
+Mary(maupay nabulig lugo)
+Gliane(arisgado)
+Cristal(buotan)
+Sofia(maupay magsolder)
+Iona(naamot)
+Roshanna(?)
 
 ## Leader
 Hino leader ngani
 
 ## Purpose
-Legit magtubig la tanom
+Legit magtubig la tanom, bisa mait udog puyde an tawo nala magtubig

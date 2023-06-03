@@ -2,13 +2,13 @@
 Research han stem b, naka ideya siguro hin hi adriana sabot ma di tuhay
 
 ## Members
-Adriana(pinaka gi aartihi han ngatanan)
-Mary(maupay nabulig lugo)
-Gliane(arisgado)
-Cristal(buotan)
-Sofia(maupay magsolder)
-Iona(naamot)
-Roshanna(?)
+* Adriana(pinaka gi aartihi han ngatanan)
+* Mary(maupay nabulig lugo)
+* Gliane(arisgado)
+* Cristal(buotan)
+* Sofia(maupay magsolder)
+* Iona(naamot)
+* Roshanna(?)
 
 ## Leader
 Hino leader ngani

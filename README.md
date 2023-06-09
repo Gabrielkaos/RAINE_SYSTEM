@@ -1,8 +1,8 @@
-# RAINE_SYSTEM(yawa na nga ngaran)
-Research han stem b, naka ideya siguro hin hi adriana sabot ma di tuhay
+# RAINE_SYSTEM(ASTIGI NGA NGARAN PROMISE)
+Research han stem b, naka ideya siguro hin hi adriana sabot gi tutuhayi
 
 ## Members
-* adriana(pinaka gi aartihi han ngatanan)
+* adriana(tuhay nga leader)
 * MARY(maupay nabulig lugo)
 * GLIANE(arisgado)
 * CRISTAL(buotan)
@@ -11,7 +11,7 @@ Research han stem b, naka ideya siguro hin hi adriana sabot ma di tuhay
 * ROSHANNA(?)
 
 ## Leader
-Hino leader ngani
+siyempre adriana
 
 ## Purpose
-Legit magtubig la tanom, bisa mait udog puyde an tawo nala magtubig
+automatic watering

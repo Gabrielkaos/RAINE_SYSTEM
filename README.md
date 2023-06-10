@@ -1,17 +1,15 @@
-# RAINE_SYSTEM(ASTIGI NGA NGARAN PROMISE)
-Research han stem b, naka ideya siguro hin hi adriana sabot gi tutuhayi
+### Raine System
+Research by ESNCHS Grade 12 Stem B
 
 ## Members
-* adriana(tuhay nga leader)
-* MARY(maupay nabulig lugo)
-* GLIANE(arisgado)
-* CRISTAL(buotan)
-* SOFIA(maupay magsolder)
-* IONA(naamot)
-* ROSHANNA(?)
-
-## Leader
-siyempre adriana
+* ADRIANA
+* MARY
+* GLIANE
+* CRISTAL
+* SOFIA
+* IONA
+* ROHANNA
+* JASMEN
 
 ## Purpose
-automatic watering
+automated watering of plants
